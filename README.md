@@ -7,7 +7,7 @@
 > A curated collection of AI agent templates, MCP servers, tools, and resources for OpenClaw, Clawdbot, and MoltBot ecosystems.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=🦞%20Awesome%20OpenClaw%20Agents&fontSize=40&fontAlignY=35&desc=AI%20Agent%20Templates%20for%20OpenClaw,%20Clawdbot%20%26%20MoltBot&descAlignY=55&descSize=18" alt="Awesome OpenClaw Agents" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Awesome%20OpenClaw%20Agents&fontSize=36&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </p>
 
 ## Contents

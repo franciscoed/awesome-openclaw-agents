@@ -55,53 +55,48 @@ openclaw gateway start
 | Agent | Description | SOUL.md | Deploy |
 |-------|-------------|---------|--------|
 | [🎯 Orion](agents/productivity/orion/) | Task coordinator and project manager | [View](agents/productivity/orion/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/project-manager-soul-md) |
-| [📋 TaskMaster](agents/productivity/taskmaster/) | Advanced task breakdown and tracking | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [📅 CalendarBot](agents/productivity/calendar-bot/) | Schedule management and reminders | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [📧 InboxZero](agents/productivity/inbox-zero/) | Email triage and response drafting | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [🎯 FocusGuard](agents/productivity/focus-guard/) | Deep work session manager | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
+| [📊 Pulse](agents/productivity/metrics/) | Analytics dashboard agent (Mixpanel, Stripe, GA4) | [View](agents/productivity/metrics/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [🧍 Standup](agents/productivity/daily-standup/) | Daily standup collector and team summarizer | [View](agents/productivity/daily-standup/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [📧 Inbox](agents/productivity/inbox-zero/) | Email triage, response drafting, daily digest | [View](agents/productivity/inbox-zero/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [📝 Minutes](agents/productivity/meeting-notes/) | Meeting summarizer and action item tracker | [View](agents/productivity/meeting-notes/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
 
 ### Development
 
 | Agent | Description | SOUL.md | Deploy |
 |-------|-------------|---------|--------|
-| [💻 CodeReviewer](agents/development/code-reviewer/) | PR review and code quality checks | Coming soon | [Deploy →](https://crewclaw.com/create-agent/code-reviewer-soul-md) |
-| [🐛 BugHunter](agents/development/bug-hunter/) | Debugging assistant and error analyzer | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [📚 DocWriter](agents/development/doc-writer/) | Documentation generator | Coming soon | [Deploy →](https://crewclaw.com/create-agent/technical-writer-soul-md) |
-| [🔧 DevOpsBot](agents/development/devops-bot/) | CI/CD and infrastructure helper | Coming soon | [Deploy →](https://crewclaw.com/create-agent/devops-engineer-soul-md) |
-| [🧪 TestCrafter](agents/development/test-crafter/) | Test case generator | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [🏗️ Architect](agents/development/architect/) | System design consultant | Coming soon | [Deploy →](https://crewclaw.com/create-agent/software-engineer-soul-md) |
+| [🔎 Lens](agents/development/code-reviewer/) | PR review, security scanning, quality assessment | [View](agents/development/code-reviewer/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/code-reviewer-soul-md) |
+| [📖 Scribe](agents/development/docs-writer/) | README, API docs, and code documentation generator | [View](agents/development/docs-writer/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/technical-writer-soul-md) |
+| [🐛 Trace](agents/development/bug-hunter/) | Error analysis, root cause investigation, debugging | [View](agents/development/bug-hunter/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [🧪 Probe](agents/development/api-tester/) | API endpoint testing, health checks, performance | [View](agents/development/api-tester/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [📋 Log](agents/development/changelog/) | Auto-changelog from git commits, release notes | [View](agents/development/changelog/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
 
 ### Marketing & Content
 
 | Agent | Description | SOUL.md | Deploy |
 |-------|-------------|---------|--------|
 | [✍️ Echo](agents/marketing/echo/) | Content writer for blogs, social, emails | [View](agents/marketing/echo/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/content-writer-soul-md) |
-| [🐦 TweetCrafter](agents/marketing/tweet-crafter/) | Viral Twitter/X thread creator | Coming soon | [Deploy →](https://crewclaw.com/create-agent/social-media-manager-soul-md) |
-| [🔍 SEOExpert](agents/marketing/seo-expert/) | SEO optimization specialist | Coming soon | [Deploy →](https://crewclaw.com/create-agent/seo-specialist-soul-md) |
-| [📰 NewsletterPro](agents/marketing/newsletter-pro/) | Email newsletter writer | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [🎨 CopyMaster](agents/marketing/copy-master/) | Sales and ad copy specialist | Coming soon | [Deploy →](https://crewclaw.com/create-agent/copywriter-soul-md) |
-| [📱 SocialScheduler](agents/marketing/social-scheduler/) | Multi-platform content planner | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
+| [📱 Buzz](agents/marketing/social-media/) | Social media manager for Twitter, LinkedIn, threads | [View](agents/marketing/social-media/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/social-media-manager-soul-md) |
+| [🔍 Rank](agents/marketing/seo-writer/) | SEO content writer with keyword research from GSC | [View](agents/marketing/seo-writer/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/seo-specialist-soul-md) |
+| [📬 Digest](agents/marketing/newsletter/) | Weekly newsletter curator and email writer | [View](agents/marketing/newsletter/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [🔭 Scout](agents/marketing/competitor-watch/) | Competitor monitoring, pricing intel, market analysis | [View](agents/marketing/competitor-watch/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
 
 ### Business
 
 | Agent | Description | SOUL.md | Deploy |
 |-------|-------------|---------|--------|
 | [📊 Radar](agents/business/radar/) | Data analyst and insights generator | [View](agents/business/radar/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/data-analyst-soul-md) |
-| [💼 CEOAssistant](agents/business/ceo-assistant/) | Executive support and decision helper | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [📈 SalesCoach](agents/business/sales-coach/) | Sales strategy and outreach | Coming soon | [Deploy →](https://crewclaw.com/create-agent/sales-representative-soul-md) |
-| [🤝 CustomerSuccess](agents/business/customer-success/) | Customer support and retention | Coming soon | [Deploy →](https://crewclaw.com/create-agent/customer-support-soul-md) |
-| [📑 ContractReviewer](agents/business/contract-reviewer/) | Legal document analyzer | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [💰 FinanceAdvisor](agents/business/finance-advisor/) | Budget and financial planning | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
+| [🎧 Compass](agents/business/customer-support/) | Support ticket triage, response drafting, escalation | [View](agents/business/customer-support/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/customer-support-soul-md) |
+| [💼 Pipeline](agents/business/sales-assistant/) | Lead scoring, outreach drafting, pipeline reports | [View](agents/business/sales-assistant/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/sales-representative-soul-md) |
+| [💰 Ledger](agents/business/invoice-tracker/) | Payment monitoring, invoice tracking, MRR reports | [View](agents/business/invoice-tracker/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [🔮 Sentinel](agents/business/churn-predictor/) | Churn risk scoring, retention actions, re-engagement | [View](agents/business/churn-predictor/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
 
 ### Personal
 
 | Agent | Description | SOUL.md | Deploy |
 |-------|-------------|---------|--------|
-| [🏠 HomeManager](agents/personal/home-manager/) | Household task coordinator | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [🏋️ FitnessCoach](agents/personal/fitness-coach/) | Workout and nutrition planner | Coming soon | [Deploy →](https://crewclaw.com/create-agent/fitness-coach-soul-md) |
-| [📖 LearningBuddy](agents/personal/learning-buddy/) | Study assistant and tutor | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [✈️ TravelPlanner](agents/personal/travel-planner/) | Trip planning and booking helper | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
-| [🧘 MindfulBot](agents/personal/mindful-bot/) | Mental wellness companion | Coming soon | [Deploy →](https://crewclaw.com/create-agent) |
+| [📅 Atlas](agents/personal/daily-planner/) | Daily schedule optimizer, morning plans, evening reviews | [View](agents/personal/daily-planner/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [📚 Scroll](agents/personal/reading-digest/) | Article summarizer, weekly reading digest, Notion sync | [View](agents/personal/reading-digest/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent) |
+| [💪 Iron](agents/personal/fitness-coach/) | Workout planner, nutrition tracker, progress reports | [View](agents/personal/fitness-coach/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent/fitness-coach-soul-md) |
 
 ---
 

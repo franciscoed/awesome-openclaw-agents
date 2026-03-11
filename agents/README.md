@@ -41,6 +41,4 @@ openclaw start
 
 Pick a template, customize it, and get a full deploy package (SOUL.md + Dockerfile + bot scripts + setup guide) in 60 seconds. No terminal required.
 
-**Single agent: $29** | **5 agents bundle: $69 (save 52%)**
-
-**[Deploy now](https://crewclaw.com/create-agent?utm_source=github&utm_medium=agents_readme&utm_campaign=deploy)**
+**[Get your deploy package →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=agents_readme&utm_campaign=deploy)**

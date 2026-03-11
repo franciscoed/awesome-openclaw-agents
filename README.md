@@ -64,7 +64,7 @@ node bot.js
 
 > All 100 agents are also available as machine-readable JSON: [`agents.json`](agents.json)
 
-> **Skip the setup?** [CrewClaw](https://crewclaw.com/create-agent) generates a full deploy package (Dockerfile + docker-compose + bot + README) for any role. $29 one-time.
+> **Skip the setup?** [CrewClaw](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=skip_setup) generates a full deploy package (Dockerfile + docker-compose + bot + README) for any role.
 
 ### 📋 Productivity
 
@@ -342,7 +342,7 @@ npm install && node bot.js    # your agent is live on Telegram
 
 See the full [Quickstart Guide](quickstart/) with Docker support.
 
-Or skip setup entirely: **[Deploy with CrewClaw →](https://crewclaw.com/create-agent)** (includes Dockerfile + docker-compose + bot + README). $29 one-time, yours forever.
+Or skip setup entirely: **[Deploy with CrewClaw →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=quickstart)** — get a full deploy package (Dockerfile + docker-compose + bot + README) for any role.
 
 ---
 
@@ -384,11 +384,9 @@ Your CrewClaw package includes:
 └── README.md                     # Setup instructions
 ```
 
-**$29 one-time. No subscription. Yours forever.**
+Pick any of the 103 templates above, or create a custom agent from scratch.
 
-Pick any of the 100 templates above, or create a custom agent from scratch.
-
-[Create your agent →](https://crewclaw.com/create-agent)
+**[Create your agent →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=bottom_cta)**
 
 ---
 

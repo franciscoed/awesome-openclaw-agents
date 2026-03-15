@@ -39,7 +39,7 @@ openclaw start
 | Supply Chain | 3 | [Browse](supply-chain/) |
 | Voice | 3 | [Browse](voice/) |
 
-## Don't want to set up Docker and configs manually?
+## Skip the setup. Deploy in 60 seconds.
 
 **[Browse all 148 templates with one-click deploy](https://crewclaw.com/agents?utm_source=github&utm_medium=agents_readme&utm_campaign=browse)**
 

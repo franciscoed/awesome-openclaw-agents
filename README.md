@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### Don't want to set up Docker, VPS, or configs yourself?
+### Skip the setup. Deploy in 60 seconds.
 
 **[Browse all 148 templates →](https://crewclaw.com/agents?utm_source=github&utm_medium=readme&utm_campaign=browse)** · **[Deploy in 60 seconds →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=deploy)**
 
@@ -446,7 +446,7 @@ How OpenClaw compares to other AI agent frameworks:
 
 ## Quick Deploy with CrewClaw
 
-Don't want to configure manually? [CrewClaw](https://crewclaw.com/create-agent) generates a complete deployment package for any agent:
+Pick a template, customize, and get a full deploy package with [CrewClaw](https://crewclaw.com/create-agent):
 
 ```
 Your CrewClaw package includes:

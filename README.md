@@ -4,19 +4,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)](https://github.com/mergisi/awesome-openclaw-agents)
-[![Agents](https://img.shields.io/badge/agents-177-blueviolet)](agents/)
+[![Agents](https://img.shields.io/badge/agents-187-blueviolet)](agents/)
 
-> A curated collection of **177 production-ready AI agent templates** for the OpenClaw ecosystem. Every template is a copy-paste ready `SOUL.md` file.
+> A curated collection of **187 production-ready AI agent templates** for the OpenClaw ecosystem. Every template is a copy-paste ready `SOUL.md` file.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=%F0%9F%A6%9E%20177%20OpenClaw%20Agent%20Templates&fontSize=36&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=%F0%9F%A6%9E%20187%20OpenClaw%20Agent%20Templates&fontSize=36&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </p>
 
 <div align="center">
 
 ### Skip the setup. Deploy in 60 seconds.
 
-**[Browse all 177 templates →](https://crewclaw.com/agents?utm_source=github&utm_medium=readme&utm_campaign=browse)** · **[Deploy in 60 seconds →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=deploy)**
+**[Browse all 187 templates →](https://crewclaw.com/agents?utm_source=github&utm_medium=readme&utm_campaign=browse)** · **[Deploy in 60 seconds →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=deploy)**
 
 Pick a template. Customize the config. Get a full deploy package. No terminal required.
 
@@ -34,7 +34,7 @@ Pick a template. Customize the config. Get a full deploy package. No terminal re
 
 ## Contents
 
-- [Agent Templates](#agent-templates) (177 agents across 24 categories)
+- [Agent Templates](#agent-templates) (187 agents across 24 categories)
   - [Productivity](#productivity) · [Development](#development) · [Marketing](#marketing--content) · [Business](#business) · [Personal](#personal)
   - [DevOps](#devops) · [Finance](#finance) · [Education](#education) · [Healthcare](#healthcare) · [Legal](#legal) · [HR](#hr) · [Creative](#creative) · [Security](#security)
   - [E-Commerce](#e-commerce) · [Data](#data) · [SaaS](#saas) · [Real Estate](#real-estate) · [Freelance](#freelance) · [Moltbook](#-moltbook-new)
@@ -459,7 +459,7 @@ How OpenClaw compares to other AI agent frameworks:
 | Self-hosted / local | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Heartbeat monitoring | ✅ | ❌ | ❌ | ❌ | ❌ |
 | Works with Ollama (free) | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Production-ready templates | **177** | 0 | 5 | 0 | 3 |
+| Production-ready templates | **187** | 0 | 5 | 0 | 3 |
 | One-command deploy | ✅ | ❌ | ❌ | ❌ | ❌ |
 | Agent-to-agent communication | ✅ | ❌ | ✅ | ✅ | ✅ |
 | Setup time | ~5 min | ~30 min | ~20 min | ~45 min | ~30 min |
@@ -476,7 +476,7 @@ How OpenClaw compares to other AI agent frameworks:
 | Messaging channels | ✅ 25+ | 3 | 2 | 1 | 5 |
 | Long-term memory | Basic | ❌ | ❌ | ❌ | ✅ Knowledge graph |
 | MCP support | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Production templates | **177** | 0 | 0 | 0 | 0 |
+| Production templates | **187** | 0 | 0 | 0 | 0 |
 | Best for | Full agent teams | Edge/IoT | Single-purpose bots | Minimal setups | Personal assistants |
 
 ### vs Hosted/Enterprise Solutions
@@ -511,7 +511,7 @@ Your CrewClaw package includes:
 └── README.md                     # Setup instructions
 ```
 
-Pick any of the 177 templates above, or create a custom agent from scratch.
+Pick any of the 187 templates above, or create a custom agent from scratch.
 
 **[Create your agent →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=bottom_cta)**
 
@@ -571,7 +571,7 @@ Utilities and helpers for working with OpenClaw.
 | Tool | Description |
 |------|-------------|
 | [openclaw CLI](https://crewclaw.com/blog/openclaw-cli-commands-reference) | Official CLI - complete command reference |
-| [agents.json](agents.json) | Machine-readable index of all 177 agent templates |
+| [agents.json](agents.json) | Machine-readable index of all 187 agent templates |
 | agent-validator | Validate SOUL.md syntax |
 | mcp-tester | Test MCP server connections |
 

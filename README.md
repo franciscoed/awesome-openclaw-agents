@@ -4,20 +4,20 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)](https://github.com/mergisi/awesome-openclaw-agents)
-[![Agents](https://img.shields.io/badge/agents-187-blueviolet)](agents/)
+[![Agents](https://img.shields.io/badge/agents-192-blueviolet)](agents/)
 [![Works with Ollama Cloud](https://img.shields.io/badge/Ollama_Cloud-Ready-00C853?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=)](https://ollama.com)
 
-> A curated collection of **187 production-ready AI agent templates** for the OpenClaw ecosystem. Every template is a copy-paste ready `SOUL.md` file.
+> A curated collection of **192 production-ready AI agent templates** for the OpenClaw ecosystem. Every template is a copy-paste ready `SOUL.md` file.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=%F0%9F%A6%9E%20187%20OpenClaw%20Agent%20Templates&fontSize=36&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=%F0%9F%A6%9E%20192%20OpenClaw%20Agent%20Templates&fontSize=36&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </p>
 
 <div align="center">
 
 ### Skip the setup. Deploy in 60 seconds.
 
-**[Browse all 187 templates →](https://crewclaw.com/agents?utm_source=github&utm_medium=readme&utm_campaign=browse)** · **[Deploy in 60 seconds →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=deploy)**
+**[Browse all 192 templates →](https://crewclaw.com/agents?utm_source=github&utm_medium=readme&utm_campaign=browse)** · **[Deploy in 60 seconds →](https://crewclaw.com/create-agent?utm_source=github&utm_medium=readme&utm_campaign=deploy)**
 
 Pick a template. Customize the config. Get a full deploy package. No terminal required.
 
@@ -35,7 +35,7 @@ Pick a template. Customize the config. Get a full deploy package. No terminal re
 
 ## Contents
 
-- [Agent Templates](#agent-templates) (187 agents across 24 categories)
+- [Agent Templates](#agent-templates) (192 agents across 24 categories)
   - [Productivity](#productivity) · [Development](#development) · [Marketing](#marketing--content) · [Business](#business) · [Personal](#personal)
   - [DevOps](#devops) · [Finance](#finance) · [Education](#education) · [Healthcare](#healthcare) · [Legal](#legal) · [HR](#hr) · [Creative](#creative) · [Security](#security)
   - [E-Commerce](#e-commerce) · [Data](#data) · [SaaS](#saas) · [Real Estate](#real-estate) · [Freelance](#freelance) · [Moltbook](#-moltbook-new)
@@ -128,6 +128,7 @@ Growing your audience on autopilot.
 | [📰 News Curator](agents/marketing/news-curator/) | Source scanning, AI curation, publishing | When you need automated news digests from 50+ sources | [View](agents/marketing/news-curator/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
 | [🎥 UGC Video](agents/marketing/ugc-video/) | AI influencer-style video content | When you need UGC-style video scripts and production plans | [View](agents/marketing/ugc-video/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
 | [📱 Multi-Account Social](agents/marketing/multi-account-social/) | 10+ account management, scheduling | When you manage multiple brand accounts across platforms | [View](agents/marketing/multi-account-social/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=social-media-manager) |
+| [🎬 Multimedia Pipeline](agents/marketing/multimedia-content-pipeline/) | Article + video + music from one brief | When you want a full content package (blog, video, audio) from a single topic — requires OpenClaw v2026.4.5+ | [View](agents/marketing/multimedia-content-pipeline/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
 
 > **Need a Content Writer or SEO agent?** [Deploy with CrewClaw →](https://crewclaw.com/create-agent?role=content-writer)
 
@@ -268,6 +269,9 @@ Making it beautiful and engaging.
 | [🖼️ Thumbnail Designer](agents/creative/thumbnail-designer/) | YouTube/social thumbnail concepts | When you need scroll-stopping thumbnail ideas | [View](agents/creative/thumbnail-designer/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
 | [📢 Ad Copywriter](agents/creative/ad-copywriter/) | Google, Meta, LinkedIn ad variants | When you need A/B test ad copy across platforms | [View](agents/creative/ad-copywriter/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
 | [🎬 Storyboard Writer](agents/creative/storyboard-writer/) | Visual storyboards, shot lists | When you need pre-production planning for video content | [View](agents/creative/storyboard-writer/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
+| [📹 Video Ad Creator](agents/creative/video-ad-creator/) | Short-form video ads via video_generate | When you need video ads from product briefs — requires OpenClaw v2026.4.5+ | [View](agents/creative/video-ad-creator/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
+| [🎞️ Short-Form Video](agents/creative/short-form-video/) | TikTok, Reels, Shorts via video_generate | When you need platform-optimized vertical video content — requires OpenClaw v2026.4.5+ | [View](agents/creative/short-form-video/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
+| [🎵 Music Producer](agents/creative/music-producer/) | Background tracks, jingles via music_generate | When you need royalty-free music for content — requires OpenClaw v2026.4.5+ | [View](agents/creative/music-producer/SOUL.md) | [Deploy →](https://crewclaw.com/create-agent?role=content-writer) |
 
 ### 🔒 Security
 

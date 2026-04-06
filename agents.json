@@ -1,5 +1,5 @@
 {
-  "total": 192,
+  "total": 196,
   "agents": [
     {
       "id": "churn-predictor",
@@ -1327,6 +1327,38 @@
       "name": "Proofreader",
       "role": "Proofreading Agent",
       "path": "agents/creative/proofreader/SOUL.md",
+      "deploy": "https://crewclaw.com/create-agent"
+    },
+    {
+      "id": "video-ad-creator",
+      "category": "creative",
+      "name": "Viso",
+      "role": "Video Ad Creator",
+      "path": "agents/creative/video-ad-creator/SOUL.md",
+      "deploy": "https://crewclaw.com/create-agent"
+    },
+    {
+      "id": "short-form-video",
+      "category": "creative",
+      "name": "Clipper",
+      "role": "Short-Form Video Producer",
+      "path": "agents/creative/short-form-video/SOUL.md",
+      "deploy": "https://crewclaw.com/create-agent"
+    },
+    {
+      "id": "music-producer",
+      "category": "creative",
+      "name": "Beats",
+      "role": "Music Producer",
+      "path": "agents/creative/music-producer/SOUL.md",
+      "deploy": "https://crewclaw.com/create-agent"
+    },
+    {
+      "id": "multimedia-content-pipeline",
+      "category": "marketing",
+      "name": "Studio",
+      "role": "Multimedia Content Pipeline",
+      "path": "agents/marketing/multimedia-content-pipeline/SOUL.md",
       "deploy": "https://crewclaw.com/create-agent"
     },
     {
